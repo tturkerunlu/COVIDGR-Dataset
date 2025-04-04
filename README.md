@@ -3,4 +3,4 @@ In close collaboration with a team of expert radiologists from the Hospital Univ
 
 | Dataset  | Class distribution | Download |
 | ------------- | ------------- | ------------- |
-| [COVIDGR-1.0](https://github.com/tturkerunlu/COVIDGR-Dataset/releases/tag/covidgr)  | 426 COVID, 426 normal  | [⤓Download](https://github.com/tturkerunlu/COVIDGR-Dataset/releases/tag/covidgr) |
+| [COVIDGR-1.0](https://github.com/tturkerunlu/COVIDGR-Dataset/releases/tag/covidgr)  | 426 COVID, 426 normal  | [⤓ Download](https://github.com/tturkerunlu/COVIDGR-Dataset/releases/tag/covidgr) |
